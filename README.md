@@ -1,2 +1,2 @@
 # code
-Compilation of Python codes
+Compilation of projects using Python
